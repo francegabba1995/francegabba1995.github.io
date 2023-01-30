@@ -64,7 +64,7 @@ header {
   }
 
   &--sticky {
-    background: $blue;
+    background: $dark;
     box-shadow: 0 3px 12px 0 $box-shadow;
     top: 0;
     color: $gray21;
@@ -91,6 +91,6 @@ header {
     display: flex;
     transform: scale(1);
     opacity: 1;
-    background-color: $blue-dark;
+    background-color: $dark;
   }
 }
