@@ -5,7 +5,6 @@
   height: 100vh;
   @include flex-container(row);
   background-color: $dark;
-
   &__details {
     flex-basis: 50%;
     color: $white;
