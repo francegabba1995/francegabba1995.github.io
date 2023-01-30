@@ -21,7 +21,7 @@ class AboutComponent {
     ngOnInit() { }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["about"]], decls: 14, vars: 2, consts: [["id", "about", 1, "about"], ["about", ""], [1, "about__details"], [1, "about__title"], [1, "gray"], [1, "about__paragraph"], ["href", "https://docs.google.com/document/d/18CJ66UeT3SOSazgvb7G_e39crXcQbi-2/edit?usp=sharing&ouid=106696477638908142346&rtpof=true&sd=true"], [1, "btn-primary", "btn-three"], ["src", "assets/img/profilePicture.jpg", "alt", "perfil", 1, "about__img"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["about"]], decls: 14, vars: 2, consts: [["id", "about", 1, "about"], ["about", ""], [1, "about__details"], [1, "about__title"], [1, "gray"], [1, "about__paragraph"], ["href", "https://docs.google.com/document/d/18CJ66UeT3SOSazgvb7G_e39crXcQbi-2/edit?usp=sharing&ouid=106696477638908142346&rtpof=true&sd=true"], [1, "btn-primary", "btn-three"], ["src", "assets/img/profilePicture.png", "alt", "perfil", 1, "about__img"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0, 1)(2, "div", 2)(3, "h1", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span", 4);
